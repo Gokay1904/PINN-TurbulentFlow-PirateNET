@@ -5,7 +5,7 @@ This project uses Physics-Informed Neural Networks (PINNs) to estimate turbulent
 ## What is this project?
 The goal of this project is to apply PINNs to model and predict fluid behavior (turbulent flow) in various scenarios. The neural network framework PirateNET is used to learn from simulation data while ensuring the model adheres to physical laws. This helps improve the model’s accuracy while reducing reliance on large datasets and high computational costs. The implementation utilizes Adam and LBFGS optimizers in PyTorch to train the model effectively.
 
-## Key Features
+### Key Features
 
 - **Physics-Informed Neural Networks (PINNs):** Incorporates physical laws directly into the model to improve predictions in fluid dynamics.
 - **PirateNET:** A deep learning framework designed for physics-based neural networks.
