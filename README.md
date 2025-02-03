@@ -39,26 +39,10 @@ The model was trained and evaluated with different configurations:
 ## Conclusion:
 The results of this study indicate that **Physics-Informed Neural Networks** (PINNs), specifically using **PirateNet**, can efficiently model **turbulent flow** and **velocity fields**. The integration of physical laws into the training process helps to improve accuracy, reduce data dependency, and offer a more computationally efficient approach for fluid dynamics simulations.
 
-## Repository:
-The complete code and implementation can be accessed in this [GitHub Repository](https://github.com/yourusername/yourrepository).
 
 ---
 
 ### Keywords:
-- **Physics-Informed Neural Networks (PINNs)**
-- **PirateNet**
-- **Fluid Dynamics**
-- **Navier-Stokes Equations**
-- **Turbulence Modeling**
-- **Velocity Fields**
-- **Machine Learning**
-- **Deep Learning**
-- **Optimization**: **Adam Optimizer**, **L-BFGS Optimizer**
-- **Accuracy Metrics**: **L2 Loss**, **L2 Accuracy Scores**
-- **TensorFlow**, **PyTorch**
-- **Residual Networks**
-- **Data Efficiency**
-- **Artificial Intelligence (AI)**
-- **Computational Fluid Dynamics (CFD)**
-- **Turbulence Models**: **k-ε**, **k-ω SST**
+**Physics-Informed Neural Networks (PINNs)**, **PirateNet**, **Fluid Dynamics**, **Navier-Stokes Equations**, **Turbulence Modeling**, **Velocity Fields**, **Machine Learning**, **Deep Learning**, **Optimization**: **Adam Optimizer**, **L-BFGS Optimizer**, **Accuracy Metrics**: **L2 Loss**, **L2 Accuracy Scores**, **TensorFlow**, **PyTorch**, **Residual Networks**, **Data Efficiency**, **Artificial Intelligence (AI)**, **Computational Fluid Dynamics (CFD)**, **Turbulence Models**: **k-ε**, **k-ω SST**
+
 
